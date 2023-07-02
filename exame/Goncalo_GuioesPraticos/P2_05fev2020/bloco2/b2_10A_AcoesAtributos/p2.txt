@@ -1,0 +1,3 @@
+-- Deve fazer output dos sets
+{1, 2, 3}
+{ d, g, h, i, kk, lmn }
